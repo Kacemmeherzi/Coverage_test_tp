@@ -25,4 +25,4 @@ class Calculator:
         elif operator == '/':
             return self.divide(a, b)
         else:
-            raise ValueError("errrrrroooouuuuuuuuuuuur")
+            raise ValueError("error  operation ")
